@@ -1,2 +1,1 @@
-# hello-world
-just first repo
+Czesc to moja pierwsza zmiana
